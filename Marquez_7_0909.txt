@@ -1,0 +1,1 @@
+Yesterday we created a repository for ourselves, and the repository is going to allow us to upload files straight to github, and not have to import. 
