@@ -1,0 +1,12 @@
+Yesterday we set up a git directory for ourselves, so imputing programs, and journals will be easier
+The steps we take everytime we do this is as following
+
+IN KONSOLE
+cd Marquez_7_journals
+nano Marquez_7_0910 (date)
+"Write journal"
+control-x to save journal
+git add *
+git commit -m "Title"
+push--u origin master 
+boom you're done!
