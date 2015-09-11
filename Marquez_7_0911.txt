@@ -1,0 +1,2 @@
+pseudocode is a rough draft of real code. It allows programs to think out their ideas before puting it into real code. Pseudocode is kind of the equivalent of a writer writing an outline before a paper. 
+We use Pseudocode to stay organized, and help understand what we're doing, so we are less likely to mess up, or less likely to mess up badly.  
