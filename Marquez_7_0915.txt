@@ -1,0 +1,4 @@
+IDE stands for integrated developement enviroment.
+ The purpose is to aid in debuggin, code editing, and more.
+ This is useful, so we can see some of the problems with a program without having to search through lines of code for a very long time.
+
