@@ -1,0 +1,45 @@
+Begin:
+	C
+		Draw up 3
+		Turn left 90 degrees
+		Draw forward 8
+		Turn left 90 degrees
+		Draw forward 12
+		turn left 90 degrees
+		Draw forward 8
+		turn left 90 degrees 
+		Draw forward 3
+	O
+		Draw backwards 8
+		turn right 90 degrees
+		Draw forward 12
+		turn right 90 degrees
+		Draw foward 8
+		turn right 90 degrees 
+		draw forward 12
+	R
+		Draw forward 12
+		turn 90 degrees right
+		Draw forward 8
+		turn 90 degrees 
+		Draw forward 6
+		turn 90 degrees right
+		Draw forward 8
+		turn 45 degrees to the left 
+		draw forward _________
+	A
+		Draw up 12 degrees
+		turn right 90 degrees
+		Draw forward 8
+		turn right 90 degrees
+		Draw forward 6 
+		turn right 90 degrees 
+		Draw forward 8
+		turn 180 degrees to the left
+		Draw forward 8
+		turn right 90 degrees
+		Draw forward 6
+	L
+		Draw down 12
+		turn left 90 degrees 
+		Draw forward 8
