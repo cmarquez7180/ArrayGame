@@ -1,0 +1,11 @@
+The five Java types are:
+1.Integers, 2.float, 3.char, 4.string, 5.boolean, 6.(Strong, long, double)
+
+Uses are as following:
+1. whole number ie. 1,2,-4
+2. 32 bit
+3. character ie. A,5,;
+4. collection of chars ie. dflghjkdfg;4
+5.true or false (on or off)
+6. 16,64 bit *2 (decimal number)
+
