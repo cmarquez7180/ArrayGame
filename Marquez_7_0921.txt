@@ -1,0 +1,7 @@
+I have recieved credit for all my journals thus far in the class. It is important to have a naming convention for a file, so finding the file is easily accessable.
+ If every person named thier file differently then Mr. Davis would have to spend a really long time looking at everyone's repository. 
+
+To copy in Linux you use the command "cp"
+To copy all of a directory use "cp *"
+
+then where every you want to bring the file to.
