@@ -1,0 +1,26 @@
+Copyright-	  Protecting the creator's work/project
+copyleft-	  making a program/work free & extended version
+Fair Use-	  Using copyrighted material to critisize, or make a parody of
+Free Speech-	  The right to say whatever you want in any form
+Free Software-    Gives the user permission to: Change, edit, share, improve, and study to a program (Can be charged)
+Freeware-	  The software does not cost money, but the source codes are not given. Usually freeware 
+		  encourages users to purchase a more capable version
+Public Domain-	  property rights has expired, like the works of Beethoven and Shakespeare
+File-		  sharing- using networks or internet to transfer files from one individual to another
+Piracy-		  unauthorized reproduction of copyrighted items (Book, program, movie, etc.)
+Plagiarism-	  Copying intended or not of anothers work without giving proper credibility
+Infringement-     Violation of a law 
+Proprietary-	  Someone who possesses/ owns exclusive rights to something AKA a patent
+Open Source-	  software that can be openly used, changed, and shared - Get source code
+GNU GPL License-  (General Public License) is a widely used free software license which allows 
+		  users to modify, share and study the software
+MIT License-      Allows users to reuse proprietary software as long as the licensed program includes
+	          MIT terms and copyright notice
+Apache License-   free software license that requires preservation of the copyright notice and 
+		  disclaimer
+EULA-             (End User License Agreement) is a contract between the user of an application, and the author
+	          or publisher
+Creative Commons- is a non-profit orinization that is focused on expanding works available for others 
+		  to share legally
+
+
