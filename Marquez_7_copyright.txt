@@ -22,5 +22,10 @@ EULA-             (End User License Agreement) is a contract between the user of
 	          or publisher
 Creative Commons- is a non-profit orinization that is focused on expanding works available for others 
 		  to share legally
-
+I have never seen this license before
+The implications the license has for the author is the author has to allow the users to change their software
+The implications the license has for the user is they may have to distribute a copy of the modified software to the 
+author, and they may have to pay for the free software
+I would use this license when I want to bulid something, but I do not know how to start (Need a base) 
+I would not use this license when I want to make money off the software, or others to tamper with it
 
