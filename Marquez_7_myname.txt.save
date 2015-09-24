@@ -1,0 +1,7 @@
+begin:
+	Do 4 times
+	Draw forward
+	turn left 3 times
+
+	Do 4 times
+	draw forward 

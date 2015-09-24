@@ -1,0 +1,10 @@
+Ballmer called GPL a virus, because Linux attached its licenses to programs and it spreads.It is required for a 
+user that used open source software to (When they finishtheir software) to then give it as an open source 
+software. Even if they created new portions, they still have to license off as open source software. 
+
+Proprietary software has limits against use, and is copyrighted. You do not have as much freedoms as you do for 
+open source software. Open source software gives the user the ability to change the code of a program however 
+they please.
+
+GPL is a license that gives users permission to change/use an open-source software as long as you re-distribute
+the changed versions to GPL. MIT can me manipulated in anyway as long as recieved under the license
