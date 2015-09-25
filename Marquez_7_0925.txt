@@ -1,0 +1,13 @@
+Paid License-
+Shareware-   Is a type of proprietary software which is initially free of charge to users, who are encouraged to share 
+	     the program, usually prohibits commercial use
+Trialware-   Software that has a built in time limit for use
+Ad-ware-     Software packaged with advertisements in order to generate revenue for its author
+Crippleware- Vital features for the program (Printing/Saving/etc.) are prohibited 
+Freemium-Offers software that's free of charge, but charges premium for advanced features/services
+FreeWare (vs. Free-OpenSource)- Freeware= Software that is free of charge
+				Free-OpenSouce= Software that comes with source codes
+Richard Stallman- Creator of GNL. and created the tools that allows Linux to run
+			Copyright- Wants everything to be open
+Lawrence Lessig- Writes books, but he is a proffessor of law at Harvard. Protecting the rights of consumers (Fair Use)
+Eben Moglen- Founder of Software Freedom Law Center. Contributor of GNU software
