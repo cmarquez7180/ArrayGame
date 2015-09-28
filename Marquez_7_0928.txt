@@ -1,0 +1,5 @@
+You count in Java by by giving the signal ++ to count by one
+
+You can see if a number is divisible by doing i % n (n being the number you want i to be divided by)
+
+You can track if a number has a divisor by putting the number in the prime finder, and see if the number shows up
