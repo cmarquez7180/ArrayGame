@@ -1,0 +1,4 @@
+Methods are a procedure to accomplish a certain task.
+
+They allow people who do not completly understand a situation to accomplish a task, because a method provides steps
+for the person to follow
