@@ -1,0 +1,2 @@
+Code comments are bits of sentences that say what you're doing or trying to do in your code. COde comments are good 
+because they help when other people are reading your code or trying to help fix a problem in your code. 
