@@ -1,0 +1,4 @@
+Methods are naming a certain function, so the computer recognizes the information you're trying to tell it. 
+Classes is a blueprint for individual objects to be created
+An instance is a specific object
+class methods are classes that contain methods
