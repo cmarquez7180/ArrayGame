@@ -1,0 +1,3 @@
+A Java class is a blueprint for individual objects
+A JavaFX class is square
+A method in javaFX might be set color
