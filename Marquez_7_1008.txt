@@ -1,0 +1,5 @@
+I want my project to have a gradient as the backgroud with cirlces that have different color strokes, but do not have a fill
+I will use color, and size methods
+I can put the circles in a loop, so they keep repeating
+If the cirlces blue put somewhere, else  put somewhere else
+I will see which  sizes would be best  to go in certain locations
