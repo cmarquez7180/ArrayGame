@@ -1,0 +1,7 @@
+1. I think I am done withh my methods. I am not sure, because I am still very confused on the whole consempt, but I've been playing around, and I think I understand
+2. The days we went over art methods I was listening. I thought "Wait what did he do? How did he do that? What is this?" I typed as fast as I could, but I wasn't fast enough. I wrote on the computer, and just copied what Daniel put on the computer
+3. I did not notice the art method code shared in the journals, or I don't think. If I did it didn't help me much
+4. I have examined the sample code, but I do not understand code enough for it to be useful to me
+5. static boolean RedSquares(int i) {
+    return (i % 3 == 0);
+    }
