@@ -1,0 +1,4 @@
+I wanted my project to be colorful, and it is. I was thinking of doing stairs, but I wanted it to be more fun, so I made these floating  rounded type rectangles that each 
+are a very vibrant color. I didn't want to do something crazy, but something simple. I also wanted it to be abstract and intresting. 
+I am going to extent the rectangle portion of the stairs so they fit top to bottow with circular ends as the bases for the two sides to not touch eachother. That way they will fill 
+up the whole canvas.
