@@ -1,0 +1,5 @@
+My game is not a guessing game, because there are a lot of problems in my code, and I'm confuesed. 
+
+It would better if the game actually worked
+
+I'm gonna keep working on it today though, and hopefully get it to work.
