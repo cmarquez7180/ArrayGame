@@ -11,7 +11,6 @@ import java.util.Random;
  * @author freyes
  */
 public class Marquez_7_GuessingGame {
-    static String username;
     static int yourguess;
     static int magicnumber;
     static Random CoralsRandom;
@@ -30,7 +29,6 @@ public class Marquez_7_GuessingGame {
         CoralsRandom = new Random();
         magicnumber = CoralsRandom.nextInt(100);
         Scanner name = new Scanner(System.in);
-        Scanner guess = new Scanner(System.in);
         System.out.println("What's your name?");
         yourname = name.nextLine();
         System.out.println( yourname + ", Would you like to play a game?");
