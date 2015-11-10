@@ -1,0 +1,7 @@
+Strings are a compilation of charatcters 
+
+Strings are good to be able to define variables, and call them into methods
+
+A string method is when strings are called into a  string ie. System.out.Println("Joe" + string + "to go out");
+
+We identify string methods, by saying the string defined the dot "string."

@@ -1,0 +1,9 @@
+A method defines/finds information about a class
+
+The method I used in guessing game was playthegame, and this method allowed the user to know if their guess was to high or too low, and if they won.
+
+a while loop says that as long as what happens is true, then the program will do this  will do this
+
+I used my while loop to say as long as playAgain is true then the computer will carry to playthegame
+I used a boolean in my program to set up variables, so different things occur when program is true or not. without the boolean then the answers the user gives would not matter
+I used a counter to allow my user to guess 10 times then the game would end 

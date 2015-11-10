@@ -1,0 +1,7 @@
+You didn't go over the journal, so wrong answers are not my fault
+You can keep track of what challenges the player has solved by 
+organizing your game to where you cannot do one thing until you 
+do another which allows you to know how far they went, or what 
+they have done so far
+You can track HP by a counter
+You can track items by a counter
