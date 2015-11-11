@@ -1,0 +1,7 @@
+The player must choose the proper routine to take for their day
+
+The last problem they will face will either be to die, or be happy. That's how you know it will end
+
+Variables in my project are the path that is taken, because it make change due to the answers the gamer gives
+
+classes being used are public classes
