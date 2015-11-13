@@ -1,0 +1,6 @@
+I will use while loops in my game, so that after a player gives a certain response the while 
+loop will take them to a certain static void without the whileloop the game will not continue 
+to move on, and would be kind of disabled from being an actual game
+
+Methods are used in my game to hold different scanners and questions that the players are 
+going to be asked to answer.
