@@ -1,0 +1,7 @@
+I think I was pretty sucessful for my game, because I had everything 
+that was required, and I actually knew what I was doing. Usually when
+I am doing something in this class I am confused the whole time, and 
+I miss things. I was successfully able to have a gamer submit a name,
+go on a journey for a day, can a game in the game, and when you lose 
+the gamer is given the option to play again.
+
