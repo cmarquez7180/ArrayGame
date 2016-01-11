@@ -1,0 +1,8 @@
+I will create a slick game that has a skeleton as a protaginist, and 
+has to go collect bones from around the maze that dogs/wolfs have
+stolen from him. If the dog touches him however he will be eaten.
+because dogs love bones
+
+It would be cool that the more bones he has the faster he gets because 
+those are his bones, and as he gains more bones he is becoming a more
+complete person. 
