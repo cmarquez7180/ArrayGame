@@ -1,0 +1,7 @@
+Slick game is dogs stole bones, and the skeleton has to take them back
+without gettig eaten. Collect them all = win
+I was done with my sprites and map, but I had a problem with making my
+enemies move which set me back for days!
+I was not able to meet the deadline, but in the spare time I was waiting
+for a question to be answered I made a title screen which is kind of 
+productive, and technically ahead, so I actually did make the deadline 
