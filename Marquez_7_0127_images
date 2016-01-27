@@ -1,0 +1,7 @@
+To add an image to a slick game you start by creating an object 
+ie: public Image startimage; then in an init method tell the 
+game where to get the image ie: startimage = new Image 
+("res/bubble.png");
+
+The image is drawn from the res folder, or wherever you decide 
+to call it
