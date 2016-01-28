@@ -1,0 +1,4 @@
+That is a method because render is a method. I know that becasue we 
+established that render, update, and init were all methods. Without
+knowing that I would confer that it is a method because it inisde 
+the Unwavering class.
