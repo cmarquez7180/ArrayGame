@@ -1,0 +1,3 @@
+A class constructer constructs an object in a class, and we should include a
+class constructor for the orbs, because the orbs are an object. We should 
+have an Orb method, and initalize code for the orb in init and update methods
