@@ -1,0 +1,5 @@
+I would check to see whether weapons have damaged enemies or objects in
+Slick by establishing a boolean to tell if the object has interacted 
+with a players hitbox, and if it has then the ememies health decreases 
+by a percentage or number. You could also establish a counter that shows 
+the player what the health of a certain enemy is. 
