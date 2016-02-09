@@ -1,0 +1,7 @@
+To have an orb move in the direction the player is facing we 
+would set the direction of the orb. In the player class theirs
+a variable called direction then set the players direction to
+the direction of the orb. Set up a public void getDirection in 
+the player class then continue to establish rules and speed for
+the ball in the game class. Setting up direction when the space 
+key is pressed of the last arrow key that is pressed.
