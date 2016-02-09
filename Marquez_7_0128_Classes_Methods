@@ -1,4 +1,5 @@
-That is a method because render is a method. I know that becasue we 
-established that render, update, and init were all methods. Without
-knowing that I would confer that it is a method because it inisde 
-the Unwavering class.
+This piece of code is a method. I know this because we established 
+that render, update, and init were all methods. Since this code 
+calls GameContainer, StateBasedGame, and Graphics which is 
+previously stated in the game, a method would be the way to call 
+these other methods.
