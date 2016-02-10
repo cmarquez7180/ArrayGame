@@ -1,0 +1,32 @@
+10 Questions I had when adding orbs to my game:
+-How do you start?
+-Should I be adding this in the Player or Orb class?
+	public void setDirection(int i){
+	this.direction = i;
+-Should I be referencing the orb or players direction?
+	ball.setX(int)skully.x);
+	ball.setDirection() == 5 {
+-Why won't time exists work?
+	I set it up in orb class
+		public void countdown(){
+		   this.timeexists --;
+	The I called it in the game class
+		ball.settimeexists(100);
+	*This one still doesn't work today*
+-How do you set up countdown()?
+-How do you reduse the size of the orb?
+	*Still a problem*
+-How to create a loop for enemies? Would it be similar
+ to the object for loop?
+-How to solve the Player not being opened in lose&win
+ class?
+	Since the Player is no longer static
+	Player.health = 1000000; & Player.speed = 4.f;
+	no longer work
+-How would you tell the game to travel to another level?
+	*Still a question*
+	Would you create an if else statement that would
+	go to lvl 2 if lvl 1 completed?
+-My enemies are very "Shaky" how would you fix that?
+	I don't think theres anything wrong with the 
+	sprite sheet, but they just don't walk nicely
