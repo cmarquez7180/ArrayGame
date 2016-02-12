@@ -1,5 +1,5 @@
 This piece of code is a method. I know this because we established 
-that render, update, and init were all methods. Since this code 
-calls GameContainer, StateBasedGame, and Graphics which is 
-previously stated in the game, a method would be the way to call 
-these other methods.
+that render, update, and init were all methods. This method runs 
+every frame to draw the necessary objects, and since it is inside
+of a class, and does cannot be defined as the word class. The code
+is a method.
