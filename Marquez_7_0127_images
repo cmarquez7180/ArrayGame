@@ -3,5 +3,5 @@ ie: public Image startimage; then in an init method tell the
 game where to get the image ie: startimage = new Image 
 ("res/bubble.png");
 
-The image is drawn from the res folder, or wherever you decide 
-to call it
+The image is drawn with .draw() in the render method, staring 
+with the 0, 0 coordinate in the top left corner. 
