@@ -1,0 +1,4 @@
+An array was used in my Slick game to block certain tiles from 
+the player and the enemy so they cannot pass through them. An 
+array might be used in a different program to package data 
+together that can be sent to different sections of a game. 
