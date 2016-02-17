@@ -1,0 +1,34 @@
+Arrays are used to hold a fixed number of values of a single data type
+
+The code for an int array is 
+int[] intArray = new int [3];
+intArray[0] = 1;
+intArray[1] = 2;
+intArray[2] = 3;
+The code for a String array is 
+String value = grassMap.getTileProperty(tileID, "blocked", "false");
+String [] donuts = {"maple","bismark","berliner"}
+
+The code for a boolean array is 
+Blocked.blocked = new boolean [grassMap.getWidth()][grassMap.getHeight()];
+
+The code for a double array is
+double [] marble = {".65355", ".5512"}
+
+You would change the first value of the int array to 42 by changing the 
+fixed value to intArray[0] = 42;
+
+
+To change the string array to "Bob" you would change the String [] Bob = 
+
+The code private String[] dessert = new String[3]; calls the 3rd sequence in 
+the string
+
+The code private String[] postres = {"rice pudding", "pan dulce", "bunelos"}
+sets up the sequences of the String
+
+The two codes are different because one is setting up which String will be
+printed and the other is setting up the strings in order of being printed
+
+You would replace "bunuelos" with "apple pie" by 
+{"rice pudding","pan dulce","apple pie"}
