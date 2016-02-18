@@ -1,0 +1,30 @@
+This code assigns images to the up = new Animation(); using a
+sprite sheet. Telling which coordinates to grab a certain 
+section of images.
+
+I have never "practiced" code outside of class. The only time I 
+use CS outside of the class is to finish a project or assignment
+
+It would be unrealistic and unproductive to memorize Slick syntax, 
+because there's so many versions and different types of code that
+just knowing a certain type is irrelevant. Knowing how to set up
+the code, and see the differences of making each code is time
+worthy, and what we were practicing yesterday.
+
+An array is a set variable for a certain piece of code
+
+*type of array* [] *name of array* = {"value of arrray"}
+
+An ArrayList is multiple values for a certain piece of code
+
+public ArrayList<Example> ie = new ArrayList ();
+
+Three useful arraylist methods are isvisible, isAlive, and canmove
+
+An array is a fixed number while an array list can be multiple, 
+and you can change the value
+
+To make a health counter:
+public static int counter = 0;
+counter += delta;
+g.drawString("time passed: +counter/1000);
