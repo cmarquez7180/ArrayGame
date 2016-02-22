@@ -1,0 +1,16 @@
+I personally do not feel ready for this test on Friday, but I never
+feel ready for anything in CS, and I never feel readyfor any tests.
+I don't really have any questions at the moment on the Slick Game
+1. Multiple levels- I think I know how to get that started
+2. Enemies- done
+3.Traps- I have no idea how to start that. Maybe give a coordinate 
+for a block tile and have that block tile unblocked, but when is true
+or hit then it will do damage to the player. like a hole or grave
+4.Give and take damage- when the hit box is touched then the health 
+decreases
+5.Score- Like a counter? I have that. A score really wouldn't make sense
+6.Inventory- I could have a certain amount of orbs being used then make 
+other types of weapons
+
+I will need to use arrays, and think a lot. I think I can do it. I will 
+do as much as I can and see how long I can go until I reach a problem.
