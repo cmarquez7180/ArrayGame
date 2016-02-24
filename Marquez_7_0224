@@ -1,0 +1,12 @@
+public class Rat {
+}
+Declare:
+public Rat r1;
+Initialize:
+r1 = new Rat(500,400);
+The declaration of a class is in the beginning of the game code (at
+the top), while the initialization of a class is in the init method
+
+the fist represents a cloumn, and the second represents a row
+int [][] coordinates = [5][2];
+
