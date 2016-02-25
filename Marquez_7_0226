@@ -1,0 +1,6 @@
+The code below sets an array for a map 
+
+To print an X, you would provide coodinates within the character
+map code that goes across two different lines. 
+Then to make a five in a row game you would have a char array with
+5 available values [][][][][]
