@@ -1,0 +1,46 @@
+1. To make a class at the beginning of code you input the phrase
+   public class Donut {
+
+   }
+2. Donut Bismark = new Donut (); is not a class constructor, because a 
+   class constructor is a method inside of a class that allows you to 
+   set the variables of that class outside the class, and it is how you 
+   create instances of that class. 
+   This code uses a class constructor to create an instance
+
+
+   public class Donut {
+	int x,y;
+	boolean isGlazed;
+	boolean hasJelly;
+	float temperature;
+(this is just setting up)
+	public Donut (boolean a, boolean b, float c){- class constructor
+	this.isGlazed = a;
+	this.hasJelly = b;
+	this.temperature = c;
+
+	}
+}
+		//a getter gets, i.e., returns a variable value (public 
+		to get a private value
+3. To make a class with values you have to initialize it, you do this by
+   
+4. A getter gets, i.e., returns a variable value/ usually a getter is a 
+   public method to get a private value
+	public boolean getHasJelly () {
+        	return this.hasJelly;
+	}
+5. A setter sets a value, but you do not get anything. Only states a 
+   a value
+   public void setTemperature (float c) {
+	this.temperature = c;
+
+   } 
+6. Array of Breafast
+   int [] coolnumberz; //this is an array of integers
+   String [] coolwords; //this is a string array
+   boolean [][] blocked; //2D array of booleans
+
+   Breakfast [] JarzombekFamilyBreakfast;
+   
