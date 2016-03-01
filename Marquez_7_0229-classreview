@@ -43,4 +43,14 @@
    boolean [][] blocked; //2D array of booleans
 
    Breakfast [] JarzombekFamilyBreakfast;
-   
+   Breakfast Joseph = new Breakfast (4,8,2,true);
+   Breakfast Sarah = new Breakfast (2,0,0,true); 
+   Breakfast Papa = new Breakfast (4,8,9,false);
+   Breakfast Momma = new Breakfast (3,0,0,false);
+   JarzombekFamilyBreakfast = {Joseph, Sarah, Papa,Momma};
+
+//setter
+Donut ChocolateFilled = new Donut(true, false, 100);
+ChocolateFilled.setTemp(72);
+//getter
+ChocolateFilled.getisGlazed();
