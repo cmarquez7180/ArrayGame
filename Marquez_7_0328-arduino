@@ -1,0 +1,9 @@
+Some similarities I have found in Arduino is the use of loops. I have
+also noticed the use of arrays. I have not seen if statements however.
+
+We will make some similar if statement to a noise sounding at a 
+certain pitch if a wireless adapter is x distance away.
+
+A ground- negative wire is required for circuits.
+
+Programs are compiled in arduino by 
