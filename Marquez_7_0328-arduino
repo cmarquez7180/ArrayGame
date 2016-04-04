@@ -6,4 +6,20 @@ certain pitch if a wireless adapter is x distance away.
 
 A ground- negative wire is required for circuits.
 
-Programs are compiled in arduino by 
+Programs are compiled in arduino by being uploaded to the Arduino's 
+flash storage. 
+
+The projects we have completed this past week have produced a fundamental
+base for what is to be required in this project and Arduino in general. 
+Using different circuits with LED's, buzzers, thermometers, etc. allowed
+me to see what certain things are possible with these boards. I also 
+learned certain rules that are functioning throughout all curcuits (Has 
+to be closed, needs ground charge, etc.). Without this week I would not
+have been able to even start this project. These examples got me familar
+with the boards, and allows me to continue to grow. 
+
+We have went through the entire book which I think is pretty amazing.
+
+Our project will include having an ultrasonic sensor that will send the 
+distance of the user holding it, and when the person come a certain 
+distance from the board, a light will come on and so will a sound.
