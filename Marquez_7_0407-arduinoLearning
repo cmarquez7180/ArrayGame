@@ -1,0 +1,9 @@
+I did not know that there were libraries in Arduino just like Netbeans. I 
+thought Arduino was more individualized, but useful libraries are 
+available all over the internet. I also learned how one misplacement in a 
+curcuit will cause the whole curcuit to malfunction or just not work as 
+well as it should (the light will not follow code properly etc.). When we 
+began this project we had an idea that seemed very difficult (cueing the 
+lights to function at different times when the sensor was activated from 
+a certain distance, but as we established our code we saw that conducting 
+the lights to go off at certain distances was possible. 
