@@ -1,0 +1,28 @@
+Assembly is a new language of computer science (Compared to Java)
+
+Assembly is good for programs that the programmer needs full 
+control over the systems hardware need to give certain tasks such
+as writing device drivers, operating system design, embedded 
+systems programming. 
+
+Assembly is different from Java in that it is considered a "lower
+level languange." Also it is more difficult to learn Assembly 
+than it is to learn Java. Assembly is not portable, but gives 
+more capability in controlling a program.
+
+High-level Language:
+-Common Applications
+-Program Developing is faster
+-Fewer lines of code
+-maintenace is easier
+Low-level Language:
+-Programs are not portable
+-More difficult language
+-Program assembly is tedious and error prone
+
+Java is a High-level language. I know this because it is portable
+(Can share program through zip drive), there are libraries and 
+condensed code forms 
+
+Assembly is a Low-level language, I know this because the language
+is more difficult to learn, and the programs are not portable. 
