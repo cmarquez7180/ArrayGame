@@ -1,0 +1,16 @@
+The computational reason to type elf64 is so the program knows what
+size to make the file
+
+We used ld to load the program
+
+We use chmod to make sample executable because at the begining we
+needed to establish that the program was executable. 
+
+
+In order to get the program to work I had to change the data size
+
+Assembly is not quick and easy, but rather long and tediuos. You 
+have to type everything rather than pre-libraires like java
+
+'low level' just means you're seeing more, not that it's easy
+or simple. 
