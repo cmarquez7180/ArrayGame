@@ -1,0 +1,8 @@
+The first similarity I notice is both programs (Human Resource, and asssembly)
+use jump as a refernce to refer to different sections of code (Do not have to 
+repeat themselves as much). They both can reference new sections of code or
+repeat them same section of code. There is also a conditional jump 
+(Similar to the jump if zero or jump if negagtive available in HRM).
+
+The differences include is in assembly you have to label where you want to 
+send the jmp L20 by doing L20:
