@@ -1,0 +1,32 @@
+Java function to return cubed value of some number:
+
+public cube(int a) {
+	a * a * a = b;
+return b; 
+
+} 
+
+Arduino function to return cubed value of some number:
+
+int cube() {
+	cube * cube * cube = cubed;
+return cubed;
+}
+
+
+Class, object, class constructor- student:
+
+public Student(int a, int b) {
+this.x=a;
+this.y=b;
+this.isVisible=true;
+}
+Student me = new Student (100,50);
+Student you = new Student (0,0);
+
+
+If we were to continue with the Arduino project I would add a buzzer that
+would make noise at a certain volume when an object is x distance away.
+(The closer the object the louder the sound) similar to an alarm. This
+way there are two sistems of measurement from the sensor and it sends
+information to the LED's and the buzzer. 
