@@ -1,0 +1,35 @@
+An array is an ordered list containing one data type
+
+String name = new String;
+
+String [10][10] name = new String [10][10];
+
+String [10][10][10] name = new String [10][10][10];
+
+public static int a = 2;
+String [10] oned = new String [10];
+	for (int i = 0; i < 10; i++) {
+		oned [a] = "a";
+		oned [i] = "0";
+}
+
+while (love = true){
+
+}
+While is a continous loop that repeats itself over and over until not true
+this saves the programmer tons of time, becasue they don't have to repeat
+themselves. 
+
+call the game by: method.game
+
+It was reccomended to use .LowerCase() with the scanner input, because
+if the user doesn't capitalize their N, which they mostly likely won't
+the game can still recognize the function being asked.
+
+You should use different methods to move the protagonist then checking for 
+intersections, because intersections would be an if statement while moving
+will be an if else statement. 
++ intersections is a method that involves the while loop, nothing else. 
+
+Passing through methods I will have the values of the @, the 
+treasure chest, the enemy, and the trap coordinates.
