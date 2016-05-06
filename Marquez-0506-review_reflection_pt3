@@ -1,0 +1,22 @@
+X-coordinate: 42
+Y-coordinate: 67
+
+Line #a sets up a value for when i, the y-coordinate, equals zero which
+the system will print out 8888
+
+Line #b is telling the system to print out the array of i and j, with the
+characteristics of the defined i and j
+
+Line #c is saying that when there is not a specific coordinate given by 
+i or j the system will print out a ".". This is different then #e because
+#e is inside another if statement that is saying if i = 0; while the #c is
+printing if i!= 0;
+
+Line #d is telling the game to print out the map of the array [i][j]
+
+Having the player being able to pick up an object that will allow them 
+to move two instead of 1 i+++++;
+
+while (letsplay) {
+} 
+boolean letsplay = true: 
