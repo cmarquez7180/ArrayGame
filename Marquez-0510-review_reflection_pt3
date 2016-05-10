@@ -1,0 +1,12 @@
+public class Hero (x, y, symbol) {
+int health = 100;
+int score = 1000;
+public Weapon destructor; 
+int skill = 50; 
+int perception = 50
+}
+coral = new Hero (100, 30, %);
+
+You cannot call something when  it's inside itself
+That would be like using a word to define itself. 
+Just doesn't make sense. 
