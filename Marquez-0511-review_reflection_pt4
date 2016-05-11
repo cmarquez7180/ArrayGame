@@ -1,0 +1,4 @@
+nested for loops allow two variables to be pass through the loop at a time, 
+in our game we have an array with x and y coordinates, but the just the x 
+coordanate would be useless, so having another for loop to also define the
+y coordinate extablishes a useful array.
