@@ -1,0 +1,22 @@
+Upcasting is converting data types easily, using values acceptable for both
+
+Downcasting is having to change one type in order to properly convert the 
+datatypes to eachother
+
+		Upcasting
+int meow = 4;
+double cat;
+cat= meow;
+		Downcasting
+double woof = 6.52155;
+int dog;
+i= (int)gog;
+
+		Char to a String
+char neigh = 'neigh';
+String horse;
+horse "" + neigh;
+
+		Range of a byte
+-128 to 127
+because they work on a system of two's complement (8-binary digits)
