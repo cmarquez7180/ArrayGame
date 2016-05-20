@@ -1,0 +1,25 @@
+public class Ogre {
+int x,y;
+	Ogre (int a, int b){
+	this.x = a;
+	this.y = b;
+}
+}
+
+public void set Position(int i) {
+	this.position = i;
+}
+
+public static Ogre badguy;
+badguy = new Ogre (100,15);
+
+if (badguy.x < 1) {
+badguy.x ++;
+}else if {
+badguy --:
+}
+public Ogre [] enemy;
+new Ogre [2];
+enemy [0] = poe;
+enemy [1] = moe;
+enemy [2] = joe;
