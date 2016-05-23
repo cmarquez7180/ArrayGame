@@ -263,8 +263,8 @@ public class Main {
         tricky = new HiddenTrap(30,20);
         badguy = new Enemy(24,20);
         evilguy = new DeadlyEnemy(11,22);
-        winner = new Win(35,15);
-        locator = new Skill(13,15);
+        winner = new Win(15,30);
+        locator = new Skill(18,15);
         enemies = new AnotherEnemy [5];
 //        enemies[0]= ;
         // array of enemies
@@ -317,12 +317,12 @@ public class Main {
     }
 
     public static void lvl1() {
-        while (letsplay) {
-            sleep(50);
-            cross[winner.y][winner.x] = winner.symbol;
-            // have to survive for couple seconds then Door is viewable
-            // randomly occuring event based on timer 10pts 
-        }
+//        while (letssee) {
+//            sleep(50);
+//            cross[winner.y][winner.x] = winner.symbol;
+//            // have to survive for couple seconds then Door is viewable
+//            // randomly occuring event based on timer 10pts 
+//        }
         while (letsplay) {
             System.out.println(coral.HP);
             System.out.println("To move enter a direction");
@@ -466,10 +466,10 @@ public class Main {
             }
         }
         // enemy moves around walls 5pts 
-//        if (cross[badguy.y][badguy.x] != "▓") {
-//            badguy.y++;
-//            badguy.x++;
-//        }
+        if (cross[badguy.y][badguy.x] != "▓") {
+            badguy.y++;
+            badguy.x++;
+        }
     }
 
     public static void enemymove2() {
